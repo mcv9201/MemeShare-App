@@ -1,4 +1,4 @@
 # MemeShare-App
 You Can surf through memes and also share it with your friends!
 
-![screenshot_Meme Share](https://user-images.githubusercontent.com/55406565/97775201-e6fe7180-1b84-11eb-9096-a74c3c5115cc.jpg)
+![screenshot_Meme Share](https://user-images.githubusercontent.com/55406565/97775275-6d1ab800-1b85-11eb-81c2-ed99a94a881e.jpg)
